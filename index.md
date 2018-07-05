@@ -42,9 +42,10 @@ If a participant engages in behavior that violates this Code of Conduct, the mee
 All IH meetup attendees are subject to the Code of Conduct. This includes:
 
 * Speakers
-* Meetup ambassadors
 * Guests
-* All IH employees and volunteers
+* Organizers
+* Community ambassadors (volunteer organizers appointed by Indie Hackers)
+* Indie Hackers employees
 
 ## Contact information
 
@@ -59,7 +60,7 @@ In case of a conflict of interest, you can individually contact:
   * Co-Founder, Indie Hackers
   * [channing@indiehackers.com](mailto:channing@indiehackers.com)
 
-IH ambassadors will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the meetup. We value your attendance.
+Community ambassadors will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the meetup. We value your attendance.
 
 ## Procedure for handling incidents
 
