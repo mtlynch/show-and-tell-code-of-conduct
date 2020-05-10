@@ -1,14 +1,14 @@
 # Code of Conduct
 
-The Indie Hackers (IH) meetups are community events to facilitate networking and collaboration IH community.
+The Show & Tell meetups facilitate networking and collaboration within the indie founder community.
 
-We value the participation of each member of the IH community and want all attendees to have an enjoyable, fulfilling experience. All attendees are expected to show respect and courtesy to others throughout the meetup.
+We value the participation of each member of Show & Tell and want all attendees to have an enjoyable, fulfilling experience. All attendees are expected to show respect and courtesy to others throughout the meetup.
 
-Everyone who participates in an Indie Hackers meetup event must adhere to the following Code of Conduct. Organizers will enforce this code throughout the event.
+Everyone who participates in an Show & Tell meetup event must adhere to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
 ## Our standards
 
-Indie Hackers is dedicated to providing a positive event experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
+Show & Tell is dedicated to providing a positive event experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
 Examples of behavior that contributes to creating a positive environment include:
 
@@ -35,37 +35,11 @@ If a participant engages in behavior that violates this Code of Conduct, the mee
 
 * Verbal warning
 * Removal from the event
-* Disinvitation from future IH events
+* Disinvitation from future events
 
 ## Scope
 
-All IH meetup attendees are subject to the Code of Conduct. This includes:
-
-* Speakers
-* Guests
-* Organizers
-* Community ambassadors (volunteer organizers appointed by Indie Hackers)
-* Indie Hackers employees
-
-## Contact information
-
-If you believe that someone is violating the Code of Conduct during a Indie Hackers event, or have any other concerns, please contact the meetup organizer immediately.
-
-In case of a conflict of interest, you can individually contact:
-
-* Courtland Allen
-  * Co-Founder, Indie Hackers
-  * [courtland@indiehackers.com](mailto:courtland@indiehackers.com)
-* Channing Allen
-  * Co-Founder, Indie Hackers
-  * [channing@indiehackers.com](mailto:channing@indiehackers.com)
-
-Community ambassadors will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of the meetup. We value your attendance.
-
-## Procedure for handling incidents
-
-* [Attendee process for reporting incidents](incident-handling-attendee-procedure.md)
-* [Meetup organizer procedure for handling incidents](incident-handling-organizer-procedure.md)
+All Show & Tell participants are subject to the Code of Conduct.
 
 ## License
 
@@ -81,4 +55,4 @@ Additional language was added by [Otter Tech](https://otter.technology/) from:
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
 
-The Indie Hackers Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+The Show & Tell Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
