@@ -1,10 +1,10 @@
 # Code of Conduct
 
-The Show & Tell meetups facilitate networking and collaboration within the indie founder community.
+The Show & Tell group is meant to facilitate networking and collaboration within the indie founder community.
 
-We value the participation of each member of Show & Tell and want all attendees to have an enjoyable, fulfilling experience. All attendees are expected to show respect and courtesy to others throughout the meetup.
+We value the participation of each member of Show & Tell and want all attendees to have an enjoyable, fulfilling experience. All attendees are expected to show respect and courtesy to others throughout the cohort.
 
-Everyone who participates in an Show & Tell meetup event must adhere to the following Code of Conduct. Organizers will enforce this code throughout the event.
+Everyone who participates in Show & Tell must adhere to the following Code of Conduct. Organizers will enforce this code in Slack channels and during video chat sessions.
 
 ## Our standards
 
@@ -26,20 +26,22 @@ Examples of unacceptable behavior by participants include:
 * Insults or put-downs
 * Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
 * Unwelcome sexual attention or advances
-* Unwelcome physical contact
 * Sustained disruption of talks or other activities
 
 Participants asked to stop any inappropriate behavior are expected to comply immediately.
 
-If a participant engages in behavior that violates this Code of Conduct, the meetup organizers will take appropriate action. This may include:
+If a participant engages in behavior that violates this Code of Conduct, the Show & Tell organizers will take appropriate action. This may include:
 
 * Verbal warning
-* Removal from the event
-* Disinvitation from future events
+* Removal from the group
 
 ## Scope
 
-All Show & Tell participants are subject to the Code of Conduct.
+All Show & Tell participants are subject to the Code of Conduct during Slack discussions and video chat sessions.
+
+## Reporting concerns
+
+TODO
 
 ## License
 
