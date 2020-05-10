@@ -20,20 +20,16 @@ Examples of behavior that contributes to creating a positive environment include
 
 Examples of unacceptable behavior by participants include:
 
-* Sexual language and imagery in any event venue, including talks
+* Using sexual language or sending sexual imagery to other members
 * Violent threats or language directed against another person
-* Deliberate intimidation, stalking, or following
 * Insults or put-downs
 * Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
 * Unwelcome sexual attention or advances
-* Sustained disruption of talks or other activities
+* Sustained or repeated interruptions of other members
 
 Participants asked to stop any inappropriate behavior are expected to comply immediately.
 
-If a participant engages in behavior that violates this Code of Conduct, the Show & Tell organizers will take appropriate action. This may include:
-
-* Verbal warning
-* Removal from the group
+If a participant engages in behavior that violates this Code of Conduct, the Show & Tell organizers will take appropriate action. This may include a verbal warning or removal from the group.
 
 ## Scope
 
@@ -41,7 +37,7 @@ All Show & Tell participants are subject to the Code of Conduct during Slack dis
 
 ## Reporting concerns
 
-TODO
+If someone violates the code of conduct and you feel uncomfortable discussing it with them, reach out to DK either via email or Slack.
 
 ## License
 
