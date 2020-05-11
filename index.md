@@ -1,14 +1,12 @@
 # Code of Conduct
 
-The Show & Tell group is meant to facilitate networking and collaboration within the indie founder community.
+Show & Tell is a micro-community of solo founders sharing their experiences and helping each another.
 
-We value the participation of each member of Show & Tell and want all attendees to have an enjoyable, fulfilling experience. All attendees are expected to show respect and courtesy to others throughout the cohort.
-
-Everyone who participates in Show & Tell must adhere to the following Code of Conduct. Organizers will enforce this code in Slack channels and during video chat sessions.
+We want to make sure that we create a kind and welcoming atmosphere for everyone, and this Code of Conduct is provided to give clear guidelines on how best we can do that.
 
 ## Our standards
 
-Show & Tell is dedicated to providing a positive event experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
+Show & Tell is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
 Examples of behavior that contributes to creating a positive environment include:
 
@@ -27,17 +25,15 @@ Examples of unacceptable behavior by participants include:
 * Unwelcome sexual attention or advances
 * Sustained or repeated interruptions of other members
 
-Participants asked to stop any inappropriate behavior are expected to comply immediately.
-
-If a participant engages in behavior that violates this Code of Conduct, the Show & Tell organizers will take appropriate action. This may include a verbal warning or removal from the group.
+If a participant engages in behavior that violates this Code of Conduct, we will take appropriate action. This may include a verbal warning or in severe cases, removal from the group.
 
 ## Scope
 
-All Show & Tell participants are subject to the Code of Conduct during Slack discussions and video chat sessions.
+All Show & Tell participants are expected to adhere to the Code of Conduct during Slack discussions and video chat sessions.
 
 ## Reporting concerns
 
-If someone violates the code of conduct and you feel uncomfortable discussing it with them, reach out to DK either via email or Slack.
+If someone violates the code of conduct and you feel uncomfortable discussing it with them, reach out to DK via email or Slack.
 
 ## License
 
